@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BookStoreAppAPI.Data;
 
-public partial class Table
+public partial class Book
 {
     public int Id { get; set; }
 
